@@ -1,0 +1,9 @@
+{
+    "benchmarks": [
+        {
+            "num": 10,
+            "name": "rsb",
+            "args": ["random-set-bits", "--max-row-id", "100000", "--max-column-id", "100000000","--seed", "0", "--iterations", "10000", "--index", "myindex", "--frame", "myframe"]
+        }
+    ]
+}
