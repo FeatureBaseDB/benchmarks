@@ -1,0 +1,9 @@
+{
+    "benchmarks": [
+        {
+            "num": 100,
+            "name": "bits-and-attrs",
+            "args": ["random-set-bits", "--max-row-id", "10000000", "--max-column-id", "200000000","--iterations", "1000000", "--index", "bits-and-attrs", "--frame", "bnaframe"]
+        }
+    ]
+}
